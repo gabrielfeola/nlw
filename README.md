@@ -4,7 +4,7 @@
 
 Projeto construído no evendo Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](https://gabrielfeola.github.io/nlw-esports/explorer)
+[Clique aqui para acessar](https://gabrielfeola.github.io/nlw-esports-explorer)
 
 ##  Tecnologias
 
